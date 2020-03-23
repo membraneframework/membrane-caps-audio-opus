@@ -1,3 +1,9 @@
+**Development moved to https://github.com/membraneframework/membrane-opus-format**
+
+We are in the process of changing our naming conventions (see [membraneframework/membrane-core#236](https://github.com/membraneframework/membrane-core/issues/236)), we have moved development of this package there.
+
+---
+
 # Membrane Multimedia Framework: Opus audio format definition
 
 This package provides Opus audio format definition (so-called caps) for the
