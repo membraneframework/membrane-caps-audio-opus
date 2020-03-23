@@ -1,4 +1,4 @@
-**Development moved to https://github.com/membraneframework/membrane-opus-format**
+**Development moved to https://github.com/membraneframework/membrane_opus_format**
 
 We are in the process of changing our naming conventions (see [membraneframework/membrane-core#236](https://github.com/membraneframework/membrane-core/issues/236)), we have moved development of this package there.
 
